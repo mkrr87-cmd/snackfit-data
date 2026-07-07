@@ -1,40 +1,237 @@
 {
   "products": [
-    { "id": "saewookkang", "name": "새우깡", "price": 1500, "emoji": "🍤", "cat": "스낵" },
-    { "id": "pocachip", "name": "포카칩 오리지널", "price": 1700, "emoji": "🥔", "cat": "스낵" },
-    { "id": "honeybutter", "name": "허니버터칩", "price": 1800, "emoji": "🍯", "cat": "스낵" },
-    { "id": "kkobukchip", "name": "꼬북칩 초코츄러스", "price": 1700, "emoji": "🐢", "cat": "스낵" },
-    { "id": "ojing", "name": "오징어땅콩", "price": 1600, "emoji": "🦑", "cat": "스낵" },
-    { "id": "kkul", "name": "꿀꽈배기", "price": 1500, "emoji": "🥨", "cat": "스낵" },
-    { "id": "banana", "name": "바나나킥", "price": 1400, "emoji": "🍌", "cat": "스낵" },
-    { "id": "cornchip", "name": "콘칩", "price": 1500, "emoji": "🌽", "cat": "스낵" },
-    { "id": "pringles", "name": "프링글스 어니언", "price": 2500, "emoji": "🥫", "cat": "스낵" },
-    { "id": "cheetos", "name": "치토스", "price": 1300, "emoji": "🧀", "cat": "스낵" },
-    { "id": "ghana", "name": "가나 초콜릿", "price": 1200, "emoji": "🍫", "cat": "초콜릿" },
-    { "id": "kitkat", "name": "킷캣", "price": 1500, "emoji": "🍫", "cat": "초콜릿" },
-    { "id": "ferrero", "name": "페레로로쉐 3구", "price": 3000, "emoji": "✨", "cat": "초콜릿" },
-    { "id": "chocosongi", "name": "초코송이", "price": 1000, "emoji": "🍄", "cat": "초콜릿" },
-    { "id": "pepero", "name": "빼빼로 초코", "price": 1500, "emoji": "🥖", "cat": "초콜릿" },
-    { "id": "abc", "name": "ABC 초콜릿", "price": 2800, "emoji": "🍬", "cat": "초콜릿" },
-    { "id": "haribo", "name": "하리보 골드베렌", "price": 2000, "emoji": "🐻", "cat": "젤리·캔디" },
-    { "id": "mygummy", "name": "마이구미 포도", "price": 1200, "emoji": "🍇", "cat": "젤리·캔디" },
-    { "id": "kkumteul", "name": "왕꿈틀이", "price": 1000, "emoji": "🐛", "cat": "젤리·캔디" },
-    { "id": "chupa", "name": "츄파춥스", "price": 500, "emoji": "🍭", "cat": "젤리·캔디" },
-    { "id": "mentos", "name": "멘토스 후르츠", "price": 1200, "emoji": "🌀", "cat": "젤리·캔디" },
-    { "id": "aisher", "name": "아이셔", "price": 800, "emoji": "😝", "cat": "젤리·캔디" },
-    { "id": "chocochip", "name": "초코칩 쿠키", "price": 1800, "emoji": "🍪", "cat": "쿠키·비스킷" },
-    { "id": "ace", "name": "에이스", "price": 1500, "emoji": "🥠", "cat": "쿠키·비스킷" },
-    { "id": "oreo", "name": "오레오", "price": 1700, "emoji": "🖤", "cat": "쿠키·비스킷" },
-    { "id": "butterwaffle", "name": "버터와플", "price": 2300, "emoji": "🧇", "cat": "쿠키·비스킷" },
-    { "id": "margaret", "name": "마가렛트", "price": 3000, "emoji": "🍪", "cat": "쿠키·비스킷" },
-    { "id": "digest", "name": "다이제 초코", "price": 2200, "emoji": "🟤", "cat": "쿠키·비스킷" },
-    { "id": "chocopie", "name": "초코파이 2입", "price": 1000, "emoji": "🥧", "cat": "파이" },
-    { "id": "mongshell", "name": "몽쉘 2입", "price": 1200, "emoji": "🍰", "cat": "파이" },
-    { "id": "custard", "name": "카스타드 2입", "price": 1000, "emoji": "🍮", "cat": "파이" },
-    { "id": "ohyes", "name": "오예스 2입", "price": 1300, "emoji": "🎂", "cat": "파이" }
+    {
+      "id": "saewookkang",
+      "name": "새우깡",
+      "price": 1550,
+      "emoji": "🍤",
+      "cat": "스낵"
+    },
+    {
+      "id": "pocachip",
+      "name": "포카칩 오리지널",
+      "price": 1700,
+      "emoji": "🥔",
+      "cat": "스낵"
+    },
+    {
+      "id": "honeybutter",
+      "name": "허니버터칩",
+      "price": 1800,
+      "emoji": "🍯",
+      "cat": "스낵"
+    },
+    {
+      "id": "kkobukchip",
+      "name": "꼬북칩 초코츄러스",
+      "price": 1700,
+      "emoji": "🐢",
+      "cat": "스낵"
+    },
+    {
+      "id": "ojing",
+      "name": "오징어땅콩",
+      "price": 1600,
+      "emoji": "🦑",
+      "cat": "스낵"
+    },
+    {
+      "id": "kkul",
+      "name": "꿀꽈배기",
+      "price": 1500,
+      "emoji": "🥨",
+      "cat": "스낵"
+    },
+    {
+      "id": "banana",
+      "name": "바나나킥",
+      "price": 1400,
+      "emoji": "🍌",
+      "cat": "스낵"
+    },
+    {
+      "id": "cornchip",
+      "name": "콘칩",
+      "price": 1500,
+      "emoji": "🌽",
+      "cat": "스낵"
+    },
+    {
+      "id": "pringles",
+      "name": "프링글스 어니언",
+      "price": 2500,
+      "emoji": "🥫",
+      "cat": "스낵"
+    },
+    {
+      "id": "cheetos",
+      "name": "치토스",
+      "price": 1300,
+      "emoji": "🧀",
+      "cat": "스낵"
+    },
+    {
+      "id": "ghana",
+      "name": "가나 초콜릿",
+      "price": 1200,
+      "emoji": "🍫",
+      "cat": "초콜릿"
+    },
+    {
+      "id": "kitkat",
+      "name": "킷캣",
+      "price": 1500,
+      "emoji": "🍫",
+      "cat": "초콜릿"
+    },
+    {
+      "id": "ferrero",
+      "name": "페레로로쉐 3구",
+      "price": 3000,
+      "emoji": "✨",
+      "cat": "초콜릿"
+    },
+    {
+      "id": "chocosongi",
+      "name": "초코송이",
+      "price": 1000,
+      "emoji": "🍄",
+      "cat": "초콜릿"
+    },
+    {
+      "id": "pepero",
+      "name": "빼빼로 초코",
+      "price": 1500,
+      "emoji": "🥖",
+      "cat": "초콜릿"
+    },
+    {
+      "id": "abc",
+      "name": "ABC 초콜릿",
+      "price": 2800,
+      "emoji": "🍬",
+      "cat": "초콜릿"
+    },
+    {
+      "id": "haribo",
+      "name": "하리보 골드베렌",
+      "price": 2000,
+      "emoji": "🐻",
+      "cat": "젤리·캔디"
+    },
+    {
+      "id": "mygummy",
+      "name": "마이구미 포도",
+      "price": 1200,
+      "emoji": "🍇",
+      "cat": "젤리·캔디"
+    },
+    {
+      "id": "kkumteul",
+      "name": "왕꿈틀이",
+      "price": 1000,
+      "emoji": "🐛",
+      "cat": "젤리·캔디"
+    },
+    {
+      "id": "chupa",
+      "name": "츄파춥스",
+      "price": 500,
+      "emoji": "🍭",
+      "cat": "젤리·캔디"
+    },
+    {
+      "id": "mentos",
+      "name": "멘토스 후르츠",
+      "price": 1200,
+      "emoji": "🌀",
+      "cat": "젤리·캔디"
+    },
+    {
+      "id": "aisher",
+      "name": "아이셔",
+      "price": 800,
+      "emoji": "😝",
+      "cat": "젤리·캔디"
+    },
+    {
+      "id": "chocochip",
+      "name": "초코칩 쿠키",
+      "price": 1800,
+      "emoji": "🍪",
+      "cat": "쿠키·비스킷"
+    },
+    {
+      "id": "ace",
+      "name": "에이스",
+      "price": 1500,
+      "emoji": "🥠",
+      "cat": "쿠키·비스킷"
+    },
+    {
+      "id": "oreo",
+      "name": "오레오",
+      "price": 1700,
+      "emoji": "🖤",
+      "cat": "쿠키·비스킷"
+    },
+    {
+      "id": "butterwaffle",
+      "name": "버터와플",
+      "price": 2300,
+      "emoji": "🧇",
+      "cat": "쿠키·비스킷"
+    },
+    {
+      "id": "margaret",
+      "name": "마가렛트",
+      "price": 3000,
+      "emoji": "🍪",
+      "cat": "쿠키·비스킷"
+    },
+    {
+      "id": "digest",
+      "name": "다이제 초코",
+      "price": 2200,
+      "emoji": "🟤",
+      "cat": "쿠키·비스킷"
+    },
+    {
+      "id": "chocopie",
+      "name": "초코파이 2입",
+      "price": 1000,
+      "emoji": "🥧",
+      "cat": "파이"
+    },
+    {
+      "id": "mongshell",
+      "name": "몽쉘 2입",
+      "price": 1200,
+      "emoji": "🍰",
+      "cat": "파이"
+    },
+    {
+      "id": "custard",
+      "name": "카스타드 2입",
+      "price": 1000,
+      "emoji": "🍮",
+      "cat": "파이"
+    },
+    {
+      "id": "ohyes",
+      "name": "오예스 2입",
+      "price": 1300,
+      "emoji": "🎂",
+      "cat": "파이"
+    }
   ],
   "users": [
-    { "id": "testuser", "pw": "abcd", "name": "김간식", "created": 1783330000000 }
+    {
+      "id": "testuser",
+      "pw": "abcd",
+      "name": "김간식",
+      "created": 1783330000000
+    }
   ],
   "settings": {
     "orderEmail": "mkrr87@gmail.com",
