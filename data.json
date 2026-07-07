@@ -8,13 +8,6 @@
       "cat": "스낵"
     },
     {
-      "id": "pocachip",
-      "name": "포카칩 오리지널",
-      "price": 1700,
-      "emoji": "🥔",
-      "cat": "스낵"
-    },
-    {
       "id": "honeybutter",
       "name": "허니버터칩",
       "price": 1800,
