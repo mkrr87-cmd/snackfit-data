@@ -209,13 +209,6 @@
       "price": 1000,
       "emoji": "🍮",
       "cat": "파이"
-    },
-    {
-      "id": "ohyes",
-      "name": "오예스 2입",
-      "price": 1300,
-      "emoji": "🎂",
-      "cat": "파이"
     }
   ],
   "users": [
